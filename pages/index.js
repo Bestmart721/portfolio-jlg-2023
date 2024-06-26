@@ -127,9 +127,9 @@ export default function Home() {
               {" "}
               Hello! I&apos;m <br />
               <span className="font-normal" id="text-shuffle">
-                Steven
+                Mirko
                 <br />
-                <small>Steven Han</small>{" "}
+                Đuričić{" "}
               </span>
             </span>
           </h1>
@@ -177,10 +177,10 @@ export default function Home() {
             </h1>
             <h3 className="text-center text-2xl lg:text-3xl font-extralight py-5 reveal">
              Over <b>11 years</b> of professional experience,
-              based in <b>Liaoning, China</b>. 
+              based in <b>Loznica, Serbia</b>. 
               Nowadays I work as a{" "}
-              <b>Senior Software Engineer</b> or Freelancer
-              , making useful and delightful developer tools.
+              <b>Software Engineer</b> or Freelancer,
+              making delightful developer tools.
             </h3>
             <p className="text-center  text-lg lg:text-xl py-5 font-extralight reveal">
               Formerly{" "}
@@ -238,7 +238,7 @@ export default function Home() {
                   ID3 post degree
                 </a>
              
-                {" "} and teaching UX/UI and frontend for 12 years. Sharing knowledge
+                {" "} and implementing UX/UI and frontend for 11 years. Sharing knowledge
                 with the future generations.
                 <br />
                 <br />
@@ -249,18 +249,18 @@ export default function Home() {
             </div>
             <div>
               <ul className="flex justify-center py-5 ">
-                <li className="mr-6">
+                {/* <li className="mr-6">
                   <a
-                    href="mailto:steven93721@gmail.com"
+                    href="mailto:mirko8687@gmail.com"
                     target="_blank"
                     rel="noreferrer"
                   >
                     <Image className="" src={emailIcon} alt="email" />
                   </a>
-                </li>
+                </li> */}
                 {/* <li className="mr-6">
                   <a
-                    href="https://www.linkedin.com/in/joseluisgj/"
+                    href="https://www.linkedin.com/in/mirko-djuricic-57406b310/"
                     target="_blank"
                     rel="noreferrer"
                   >
